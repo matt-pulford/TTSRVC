@@ -1,0 +1,10 @@
+{
+  "model_name": "WaveGlow",
+  "sampling_rate": 32000,
+  "n_fft": 1024,
+  "num_mels": 80,
+  "hop_size": 256,
+  "win_size": 1024,
+  "mel_fmin": 0,
+  "mel_fmax": 8000
+}
