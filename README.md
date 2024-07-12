@@ -1,5 +1,5 @@
 
-# TTS-RVC-API
+# Copy of TTS-RVC-API.  Modified.
 
 Yes, we can use Coqui with RVC!
 
